@@ -1,0 +1,39 @@
+# PyBer Analysis Challenge 
+## Project Overview
+
+1. Retrieve weather data using API
+2. Create a customer travel destinations map using input statements and preferences
+3. Ceate a travel itinerary map using Google Directions API
+
+In addition to Original Module tasks:
+1. Perform tasks using new Python libraries and Modules
+2. Retrieve and use data from an API "get" request to a server
+3. Retrieve and stores values from JSON
+4. Use try and except blocks to fix errors
+5. Create scatter plots with Matplotlib and format it
+6. Perform linear regression and add regression lines to scatter plots
+7. Create heatmaps and add markers using Google Maps API
+
+## Purpose of Analysis
+ from module not challenge.. Task: Collect and analyze weather data across cities worldwide.
+Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
+Method: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
+
+
+## Resources
+* Data source: 
+* Software: 
+
+## Overview of Analysis 
+T
+## Results 
+### DataFrame Summary of City Types
+
+
+
+### Total Fare by City Type
+
+
+W  
+
+## Recommendations
